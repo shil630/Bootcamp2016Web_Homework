@@ -3,7 +3,7 @@ div.header {
 	height: 72px;*/
 	/*margin: 24px;*/
 /*	background-color: white;*/
-	font-family: 'Arvo', serif;
+	font-family: 'Open Sans', sans-serif;
 	margin-left: 48px;
 	margin-top: 48px;
 	font-weight: bold;
@@ -51,7 +51,7 @@ div.nav_text {
 	margin-top: 24px;
 	margin-bottom: 24px;
 	/*text-align: center;*/
-	font-family: 'Arvo', serif;
+    font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	color: #666666;
 	transition: color background-color ease-in-out;
@@ -124,7 +124,7 @@ div.content_list {
 }
 div.content_heading {
 
-	font-family: 'Arvo', serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 24px;
 	font-weight: bold;
 	text-align: left;
@@ -137,7 +137,8 @@ div.content_text {
 
     width: 100%;
     min-width: 600px;
-	font-family: 'Arvo', serif;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
 	font-size: 14px;
 	color: #666666;
 /*	margin-bottom: 24px;*/
